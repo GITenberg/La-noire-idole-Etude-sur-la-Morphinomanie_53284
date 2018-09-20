@@ -1,5 +1,8 @@
 _repo: La-noire-idole-Etude-sur-la-Morphinomanie_53284
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53284-h/images/cover.jpg
 creator:
   author:
     agent_name: Tailhade, Laurent
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47304
     wikipedia: https://fr.wikipedia.org/wiki/Laurent_Tailhade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53284#La-noire-idole-Etude-sur-la-Morphinomanie
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2016-10-15'
 gutenberg_type: Text
